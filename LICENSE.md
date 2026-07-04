@@ -1,78 +1,319 @@
 
-Apache License
-Version 2.0, January 2004
-http://www.apache.org/licenses/
+# CREDERE PUBLIC LICENSE v1.0
 
-Autor: Rafael Paredes as Architect, Planner, Researcher, Software Engineer, and AI Engineer of this project.
+**Version 1.0**  
+**Effective Date:** January 1, 2025
 
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+---
 
-1. Definitions.
+# CREDERE
 
-"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+**Neuro-Symbolic Compliance & Hallucination-Free Explanations for Credit Scoring**
 
-"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+---
 
-"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.
+# Copyright
 
-"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+Copyright © 2025 Rafael Paredes
 
-"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+All rights reserved.
 
-"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+---
 
-"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work.
+# Project Authorship
 
-"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+This project was originally conceived, researched, architected, designed and implemented by:
 
-"Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+**Rafael Paredes**
 
-"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+Roles:
 
-2. Grant of Copyright License.
+- AI Systems Architect
+- Project Planner
+- AI Researcher
+- Software Engineer
+- AI Engineer
 
-Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+The intellectual design, software architecture, engineering methodology, documentation, implementation, validation strategy and supporting research contained within this repository constitute original work authored by Rafael Paredes.
 
-3. Grant of Patent License.
+---
 
-Subject to the terms and conditions of this License, each Contributor hereby grants You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted.
+# 1. Purpose
 
-4. Redistribution.
+This License governs the use, modification, redistribution and contribution of the CREDERE project.
 
-You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+The objective of this License is to encourage research, education and responsible software development while preserving attribution to the original author and protecting the integrity of the project's intellectual design.
 
-(a) You must give any other recipients of the Work or Derivative Works a copy of this License; and
+---
 
-(b) You must cause any modified files to carry prominent notices stating that You changed the files; and
+# 2. Scope
 
-(c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+This License applies to every component contained within this repository, including but not limited to:
 
-(d) If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation; or within a display generated by the Derivative Works, if and wherever such third-party notices normally appear.
+- Source code
+- Python modules
+- Documentation
+- Markdown files
+- Architecture diagrams
+- Validation documents
+- Compliance engine
+- Explanation engine
+- Design decisions
+- Test suites
+- Examples
+- Repository structure
+- Supporting assets
 
-5. Submission of Contributions.
+---
 
-Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work shall be licensed under the terms of this License, without any additional terms or conditions.
+# 3. Permissions
 
-6. Trademarks.
+Subject to the conditions described in this License, permission is granted to any individual or organisation to:
 
-This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+- Use the software.
+- Study the source code.
+- Modify the software.
+- Fork the repository.
+- Create derivative works.
+- Redistribute original or modified versions.
+- Use the software for research.
+- Use the software for educational purposes.
+- Use the software within commercial environments.
 
-7. Disclaimer of Warranty.
+---
 
-Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
+# 4. Conditions
 
-You are solely responsible for evaluating the appropriateness of the Work for your use, including any use in clinical, medical, diagnostic, safety-critical contexts, financial and or other decisions.
+Redistributions of this project, whether modified or unmodified, must:
 
-This Project is provided solely for research, educational, experimental, and demonstrative purposes and is not intended to be used as a financial device, bank software, or decision-making tool.
+- Retain this License.
+- Preserve the original copyright notice.
+- Clearly identify any modifications.
+- Preserve attribution to the original author.
+- Include this License in any redistributed version.
 
-8. Limitation of Liability.
+---
 
-In no event and under no legal theory, whether in tort, contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work.
+# 5. Attribution
 
-The Licensor and Contributors shall not be responsible for any clinical, medical, regulatory, operational, or financial decisions made based on the Work.
+Any redistribution, publication, derivative work or public use of this project shall acknowledge the original work.
 
-9. Accepting Warranty or Additional Liability.
+Recommended attribution:
 
-While redistributing the Work or Derivative Works thereof, You may choose to offer and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+> CREDERE — Neuro-Symbolic Compliance & Hallucination-Free Explanations for Credit Scoring  
+> Created by Rafael Paredes.
 
-END OF TERMS AND CONDITIONS
+Academic citation is appreciated whenever this project contributes to scientific work.
+
+---
+
+# 6. Derivative Works
+
+Derivative works are permitted.
+
+However, derivative works shall not:
+
+- claim authorship of the original project;
+- remove attribution to the original author;
+- represent the original architecture as their own work;
+- imply endorsement by the original author.
+
+Substantial modifications should be clearly identified.
+
+---
+
+# 7. Commercial Use
+
+Commercial use is permitted.
+
+Commercial users remain subject to all attribution requirements contained in this License.
+
+Commercial use does not imply endorsement by the original author.
+
+---
+
+# 8. Contributions
+
+Contributions are welcome.
+
+By submitting a contribution, the contributor grants permission for that contribution to become part of the CREDERE project under the terms of this License.
+
+Contributors retain copyright over their own contributions unless otherwise agreed.
+
+---
+
+# 9. Documentation
+
+Documentation is considered an integral component of the project.
+
+Documentation may be reused, translated, or extended, provided that:
+
+- attribution is preserved;
+- modifications are identified;
+- This License accompanies redistributed versions.
+
+---
+
+# 10. Research Use
+
+Research institutions and universities are encouraged to use this project for:
+
+- research;
+- teaching;
+- experimentation;
+- benchmarking;
+- reproducibility studies.
+
+Proper citation of the original work is appreciated.
+
+---
+
+# 11. Artificial Intelligence Disclaimer
+
+CREDERE is an engineering and research project.
+
+The repository demonstrates architectural concepts for trustworthy Artificial Intelligence in regulated credit-scoring environments.
+
+Nothing contained within this repository shall be interpreted as legal advice, financial advice or regulatory certification.
+
+---
+
+# 12. Dataset Disclaimer
+
+The demonstration dataset reflects historical loan approval decisions rather than actual credit default outcomes.
+
+Accordingly:
+
+- predictive performance should not be interpreted as production performance;
+- independent validation is required before deployment;
+- institution-specific retraining is expected.
+
+---
+
+# 13. Regulatory Disclaimer
+
+The project explores engineering techniques aligned with:
+
+- explainable AI;
+- trustworthy AI;
+- human oversight;
+- deterministic compliance;
+- auditability.
+
+Publication of this repository does not constitute formal compliance with:
+
+- the European Union AI Act;
+- GDPR;
+- financial regulations;
+- banking supervisory requirements.
+
+Independent legal validation remains the responsibility of deployers.
+
+---
+
+# 14. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS".
+
+THE AUTHOR MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- MERCHANTABILITY;
+- FITNESS FOR A PARTICULAR PURPOSE;
+- NON-INFRINGEMENT;
+- REGULATORY COMPLIANCE;
+- PRODUCTION READINESS.
+
+USE OF THIS SOFTWARE IS ENTIRELY AT THE USER'S OWN RISK.
+
+---
+
+# 15. Limitation of Liability
+
+UNDER NO CIRCUMSTANCES SHALL THE AUTHOR BE LIABLE FOR:
+
+- DIRECT DAMAGES;
+- INDIRECT DAMAGES;
+- INCIDENTAL DAMAGES;
+- SPECIAL DAMAGES;
+- CONSEQUENTIAL DAMAGES;
+- LOSS OF DATA;
+- LOSS OF PROFITS;
+- BUSINESS INTERRUPTION.
+
+THIS LIMITATION APPLIES REGARDLESS OF THE THEORY OF LIABILITY.
+
+---
+
+# 16. Intellectual Integrity
+
+This License permits modification and extension of the software.
+
+However, users shall not:
+
+- falsely claim authorship of the original architecture;
+- remove the original copyright notice;
+- misrepresent the research methodology;
+- imply collaboration where none exists.
+
+---
+
+# 17. Project Identity
+
+"CREDERE" is the name of the original research and engineering project.
+
+Derivative works should avoid creating confusion regarding:
+
+- authorship;
+- project origin;
+- official releases.
+
+---
+
+# 18. Citation
+
+Suggested citation:
+
+Rafael Paredes.
+
+**CREDERE — Neuro-Symbolic Compliance & Hallucination-Free Explanations for Credit Scoring.**
+
+2025.
+
+GitHub Repository.
+
+---
+
+# 19. Governing Principles
+
+The CREDERE project is founded upon the following engineering principles:
+
+- Transparency
+- Explainability
+- Accountability
+- Auditability
+- Human Oversight
+- Deterministic Compliance
+- Reproducibility
+- Engineering Integrity
+
+These principles define the intended philosophy of the project.
+
+---
+
+# 20. Acceptance
+
+By using, copying, modifying or redistributing this software, you acknowledge that you have read and understood this License and agree to comply with its terms.
+
+---
+
+# Final Statement
+
+CREDERE was created to demonstrate that trustworthy Artificial Intelligence is achieved not only through accurate predictive models, but through careful software engineering, deterministic reasoning, transparent documentation and responsible system design.
+
+The author encourages the use, study and improvement of this work in ways that advance open research, responsible innovation and trustworthy AI.
+
+---
+
+**Created, Architected and Engineered by Rafael Paredes**
+
+© 2025 Rafael Paredes. All rights reserved.
